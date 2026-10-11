@@ -1,0 +1,11 @@
+{
+  "name": "agenc-e2e-sandbox",
+  "version": "1.0.0",
+  "description": "Sandbox repo for AgenC marketplace end-to-end tests.",
+  "main": "src/stats.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "private": true
+}
